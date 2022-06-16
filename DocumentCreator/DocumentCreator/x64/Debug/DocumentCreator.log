@@ -1,0 +1,11 @@
+﻿  Block.cpp
+C:\Users\1\source\repos\DocumentCreator\DocumentCreator\Block.cpp(230,12): warning C4101: last_block: неиспользованная локальная переменная
+  Converter.cpp
+  Document.cpp
+  DocumentCreator.cpp
+  DocumentException.cpp
+  Element.cpp
+  String.cpp
+  WrongFormatException.cpp
+  Создание кода...
+  DocumentCreator.vcxproj -> C:\Users\1\source\repos\DocumentCreator\x64\Debug\DocumentCreator.exe

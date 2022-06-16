@@ -1,0 +1,92 @@
+{
+#align center
+#border 1 %
+#margin 1 1 1 1
+#padding 2 2 2 2
+$a b c d e f g
+{
+#border 3 *
+#padding 3 3 3 3
+#align left
+$1234567890
+$ abcdefghijklmnopqrstuvwxyz
+{
+#border 3 *
+#padding 3 3 3 3
+#align left
+$1234567890
+$ ressurection by
+{
+#mask $
+#align right
+{
+#margin 2 2 2 9
+#padding 1 1 3 1
+#border 2 +
+#width 8
+#mask +
+$ASDF
+}
+$  erection
+}
+}
+$QWERTYUIOP
+$ I'm not gonna give you up
+{
+{
+#margin 2 8 2 8
+#padding 2 1 2 1
+#border 3 %
+#align center
+#width 8
+$ I'm not gonna let you down
+}
+}
+}
+{
+#align center
+#border 1 %
+#margin 1 1 1 1
+#padding 2 2 2 2
+$a b c d e f g
+{
+#border 3 *
+#padding 3 3 3 3
+#align left
+$1234567890
+$ abcdefghijklmnopqrstuvwxyz
+{
+#border 3 *
+#padding 3 3 3 3
+#align left
+$1234567890
+$ abcdefghijklmnopqrstuvwxyz
+{
+#mask $
+#align right
+{
+#margin 2 2 2 9
+#padding 1 1 3 1
+#border 2 +
+#width 4
+#mask +
+$ASDF
+}
+$  grklgrkjhk
+}
+}
+$QWERTYUIOP
+$ I'm not gonna give you up
+{
+{
+#margin 2 8 2 8
+#padding 2 1 2 1
+#border 3 %
+#align center
+#width 18
+$ I'm not gonna let you down
+}
+}
+}
+}
+}
